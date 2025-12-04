@@ -1,10 +1,17 @@
 <img src="readme-pages/Sarvesh_Patil_Portfolio_page-0001.jpg" width="450">
 
-### Link to the project: https://github.com/SarveshPatil7/Self-Balancing_Prism
+Link to the project: https://github.com/SarveshPatil7/Self-Balancing_Prism
+
 <img src="readme-pages/Sarvesh_Patil_Portfolio_page-0002.jpg" width="450">
 
-Link to the project https://github.com/SarveshPatil7/FEA-Solver
+Link to the project: https://github.com/SarveshPatil7/FEA-Solver
 
 <img src="readme-pages/Sarvesh_Patil_Portfolio_page-0003.jpg" width="450">
+
+Link to the project: https://github.com/SarveshPatil7/EV_Battery_Liquid_Cooling
+
 <img src="readme-pages/Sarvesh_Patil_Portfolio_page-0004.jpg" width="450">
+
+Link to the project: https://github.com/SarveshPatil7/Dimension_Reduction_using_Deep_Learning_for_High_Dimensional_Reliability_Analysis
+
 <img src="readme-pages/Sarvesh_Patil_Portfolio_page-0005.jpg" width="450">
